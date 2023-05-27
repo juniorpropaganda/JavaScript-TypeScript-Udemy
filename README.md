@@ -7,3 +7,4 @@
 
 ## Salvando alterações no Git
 * comandos git push
+* comandos git pull
